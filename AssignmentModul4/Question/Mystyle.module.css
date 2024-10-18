@@ -1,0 +1,23 @@
+.nav{
+    background-color: aqua;
+    height: 80vh;
+    width: 30vh;
+    position: absolute;
+    left: -200px;
+    transition: 2s linear;
+}
+.nav1{
+    position: absolute;
+    left: 0px;
+}
+.lis{
+    list-style: none;
+    text-transform: uppercase;
+    text-align: start;
+    line-height: 80px;
+    margin-left: 10px;
+}
+.btn{
+    position: fixed;
+    right: 10px;
+}

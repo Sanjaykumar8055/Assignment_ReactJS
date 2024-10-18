@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.que{
+    background-color: bisque;
+    text-transform: capitalize;
+    padding: 20px;
+    margin: 5px;
+}
+.ans{
+    background-color: cornsilk;
+    padding: 20px;
+    text-transform: capitalize;
+    display: none;
+}
+.ans1{
+    display: block;
+}
